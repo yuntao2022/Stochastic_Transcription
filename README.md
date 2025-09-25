@@ -24,7 +24,7 @@ This repository contains code accompanying the article (in press by *Biophys. J.
 ### Directory Tree Structure
 
 ```
-Transcription/
+Stochastic_Transcription/
 ├── README.md
 ├── Main.ipynb
 ├── Main_timing.ipynb
