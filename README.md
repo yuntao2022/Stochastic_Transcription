@@ -1,4 +1,4 @@
-This repository contains code accompanying the article 
+This repository contains code accompanying the article (in press by *Biophys. J.*)
 
 ---
 
