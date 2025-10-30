@@ -14,7 +14,7 @@ This repository contains code accompanying the article (in press by *Biophys. J.
 
 ### Contents
 
-- **14** Jupyter Notebooks
+- **16** Jupyter Notebooks
 - **1** Python file
 - **5** PDF files
 - **25** NumPy files
@@ -34,6 +34,8 @@ Stochastic_Transcription/
 ├── FSP_timing.ipynb
 ├── Renewal_timing.ipynb
 ├── Parameters_for_Figures.py
+├── ParametersFig1.ipynb
+├── ParametersFig2.ipynb
 ├── ParametersFig3.ipynb
 │
 ├── Fig1/
@@ -101,7 +103,7 @@ Each notebook executes its respective method and outputs timing data to correspo
 
 The Python file `Parameters_for_Figures.py` contains the model parameters used in Figures 1-5.
 
-Jupyter Notebook `ParametersFig3.ipynb` explicitly displays the model parameters used in Figure 3.
+Jupyter Notebooks `ParametersFig1.ipynb`, `ParametersFig2.ipynb`, and `ParametersFig3.ipynb` explicitly displays the model parameters used in Figure 1, 2, and 3, respectively.
 
 Each of the five figure directories (`Fig1/`, `Fig2/`, `Fig3/`, `Fig4/`, and `Fig5/`) contains:
 
