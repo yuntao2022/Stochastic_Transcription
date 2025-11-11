@@ -10,6 +10,8 @@ This repository contains code accompanying the article (in press by *Biophys. J.
 
 #### Email: `yuntaolu22@m.fudan.edu.cn` and `xyz@fudan.edu.cn`  
 
+### https://doi.org/10.1016/j.bpj.2025.09.045
+
 ---
 
 ### Contents
