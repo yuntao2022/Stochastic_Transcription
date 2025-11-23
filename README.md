@@ -112,3 +112,4 @@ Each of the five figure directories (`Fig1/`, `Fig2/`, `Fig3/`, `Fig4/`, and `Fi
 - A Jupyter Notebook that reproduces the corresponding figure;
 - Supporting NumPy files containing the plotted data;
 - A PDF version of the figure as used in our article.
+![Cover Art of Volume 124 Number 19, Biophys. J.](CoverArt_BJ.jpg)
