@@ -115,5 +115,5 @@ Each of the five figure directories (`Fig1/`, `Fig2/`, `Fig3/`, `Fig4/`, and `Fi
 - A PDF version of the figure as used in our article.
 
 <p align="center">
-  <img src="CoverArt_BJ.jpg" alt="Cover Art of Volume 124 Number 23, Biophys. J." width="300">
+  <img src="CoverArt_BJ.jpg" alt="Cover Art of Volume 124 Number 23, Biophys. J." width="600">
 </p>
