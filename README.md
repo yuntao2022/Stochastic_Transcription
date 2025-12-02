@@ -1,4 +1,4 @@
-This repository contains code accompanying the article (in press by *Biophys. J.*)
+This repository contains code accompanying the article:
 
 ---
 
@@ -10,8 +10,9 @@ This repository contains code accompanying the article (in press by *Biophys. J.
 
 #### Email: `yuntaolu22@m.fudan.edu.cn` and `xyz@fudan.edu.cn`  
 
-#### DOI: https://doi.org/10.1016/j.bpj.2025.09.045
+#### Cite: Y. Lu and Y. Zhang, Biophys. J. **124**, 4102 (2025).
 
+#### DOI: https://doi.org/10.1016/j.bpj.2025.09.045
 ---
 
 ### Contents
