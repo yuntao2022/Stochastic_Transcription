@@ -114,4 +114,6 @@ Each of the five figure directories (`Fig1/`, `Fig2/`, `Fig3/`, `Fig4/`, and `Fi
 - Supporting NumPy files containing the plotted data;
 - A PDF version of the figure as used in our article.
 
-![Cover Art of Volume 124 Number 19, Biophys. J.](CoverArt_BJ.jpg)
+<p align="center">
+  <img src="CoverArt_BJ.jpg" alt="Cover Art of Volume 124 Number 23, Biophys. J." width="300">
+</p>
